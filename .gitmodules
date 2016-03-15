@@ -1,9 +1,6 @@
 [submodule "apps/projectGenerator"]
 	path = apps/projectGenerator
 	url = https://github.com/openframeworks/projectGenerator.git
-[submodule "apps/OpenFrameworksTest2"]
-	path = apps/OpenFrameworksTest2
-	url = https://github.com/reccanti/OpenFrameworksTest2.git
 [submodule "apps/myapps/OpenFrameworksTest2"]
 	path = apps/myapps/OpenFrameworksTest2
 	url = https://github.com/reccanti/OpenFrameworksTest2.git
