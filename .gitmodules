@@ -4,3 +4,12 @@
 [submodule "apps/myapps/OpenFrameworksTest2"]
 	path = apps/myapps/OpenFrameworksTest2
 	url = https://github.com/reccanti/OpenFrameworksTest2.git
+[submodule "addons/ofxSimpleHttp"]
+	path = addons/ofxSimpleHttp
+	url = https://github.com/armadillu/ofxSimpleHttp.git
+[submodule "addons/ofxSyphon"]
+	path = addons/ofxSyphon
+	url = https://github.com/astellato/ofxSyphon.git
+[submodule "addons/ofxSocketIO"]
+	path = addons/ofxSocketIO
+	url = https://github.com/soixantecircuits/ofxSocketIO.git
