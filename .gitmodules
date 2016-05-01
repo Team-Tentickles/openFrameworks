@@ -13,3 +13,6 @@
 [submodule "addons/ofxSocketIO"]
 	path = addons/ofxSocketIO
 	url = https://github.com/soixantecircuits/ofxSocketIO.git
+[submodule "apps/myapps/DrawingWrapper"]
+	path = apps/myapps/DrawingWrapper
+	url = https://github.com/Team-Tentickles/DrawingWrapper.git
